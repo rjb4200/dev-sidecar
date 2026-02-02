@@ -57,8 +57,7 @@ jobs:
           registry-url: https://npm.pkg.github.com/
           cache: pnpm
 
-      - name: Setup Python environment (Mac) Because of electron-builder install-app-deps requires Python setup tools
-        if: matrix.os == 'macos'
+      - name: Setup Python environment (For all systems) Because of electron-builder install-app-deps requires Python setup tools
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
