@@ -191,12 +191,6 @@
     "status": "matched",
     "provider": "unknown"
   },
-  "103 Mm E I 64 INST Winchester KY 40391": {
-    "lat": null,
-    "lon": null,
-    "status": "no_match",
-    "provider": "unknown"
-  },
   "131 Franklin Ave Winchester KY 40391": {
     "lat": 37.994026500615,
     "lon": -84.165820087814,
@@ -221,12 +215,6 @@
     "status": "matched",
     "provider": "unknown"
   },
-  "Ashland Winchester KY 40391": {
-    "lat": null,
-    "lon": null,
-    "status": "no_match",
-    "provider": "unknown"
-  },
   "320 Market St Winchester KY 40391": {
     "lat": 38.000613508497,
     "lon": -84.203578075389,
@@ -237,12 +225,6 @@
     "lat": 37.991082454227,
     "lon": -84.201002154058,
     "status": "matched",
-    "provider": "unknown"
-  },
-  "1979 Jones Nursery Rd Winchester KY 40391": {
-    "lat": null,
-    "lon": null,
-    "status": "no_match",
     "provider": "unknown"
   },
   "724 Berry Ct Winchester KY 40391": {
@@ -279,12 +261,6 @@
     "lat": 37.990196168761,
     "lon": -84.168553917767,
     "status": "matched",
-    "provider": "unknown"
-  },
-  "Rockwell Winchester KY 40391": {
-    "lat": null,
-    "lon": null,
-    "status": "no_match",
     "provider": "unknown"
   },
   "537 Treehaven Dr Winchester KY 40391": {
@@ -333,12 +309,6 @@
     "lat": 37.996570083468,
     "lon": -84.221450787299,
     "status": "matched",
-    "provider": "unknown"
-  },
-  "710 Concord Ave Winchester KY 40391": {
-    "lat": null,
-    "lon": null,
-    "status": "no_match",
     "provider": "unknown"
   },
   "338 Canewood Dr Winchester KY 40391": {
@@ -461,24 +431,6 @@
     "status": "matched",
     "provider": "unknown"
   },
-  "328 Canewood Dr Winchester KY 40391": {
-    "lat": null,
-    "lon": null,
-    "status": "no_match",
-    "provider": "unknown"
-  },
-  "224 E Broadway St 3 Winchester KY 40391": {
-    "lat": 37.991734024726,
-    "lon": -84.171591767598,
-    "status": "matched",
-    "provider": "unknown"
-  },
-  "Bypass Winchester KY 40391": {
-    "lat": null,
-    "lon": null,
-    "status": "no_match",
-    "provider": "unknown"
-  },
   "480 Bullion Blvd & Bypass B/C Winchester KY 40391": {
     "lat": 37.993014244095,
     "lon": -84.215369249805,
@@ -495,12 +447,6 @@
     "lat": 37.98936168959,
     "lon": -84.211479086693,
     "status": "matched",
-    "provider": "unknown"
-  },
-  "Maple Winchester KY 40391": {
-    "lat": null,
-    "lon": null,
-    "status": "no_match",
     "provider": "unknown"
   },
   "202 Central Ave Winchester KY 40391": {
@@ -537,12 +483,6 @@
     "lat": 37.995864145427,
     "lon": -84.177723651625,
     "status": "matched",
-    "provider": "unknown"
-  },
-  "Becknerville Winchester KY 40391": {
-    "lat": null,
-    "lon": null,
-    "status": "no_match",
     "provider": "unknown"
   },
   "50 Skylark Dr Winchester KY 40391": {
@@ -18143,12 +18083,6 @@
     "status": "matched",
     "provider": "census"
   },
-  "9221 WADES MILL RD WINCHESTER KY 40391": {
-    "lat": null,
-    "lon": null,
-    "status": "no_match",
-    "provider": "none"
-  },
   "505 ATRIUM PL WINCHESTER KY 40391": {
     "lat": 37.996425439053,
     "lon": -84.190588215273,
@@ -18190,12 +18124,6 @@
     "lon": -84.180574203618,
     "status": "matched",
     "provider": "census"
-  },
-  "SCHOLLSVILLE RD WINCHESTER KY 40391": {
-    "lat": null,
-    "lon": null,
-    "status": "no_match",
-    "provider": "none"
   },
   "4611 COLBY RD WINCHESTER KY 40391": {
     "lat": 37.993511842005,
